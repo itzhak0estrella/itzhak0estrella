@@ -1,9 +1,13 @@
 
-<p align = "center"> <img src = "https://share.creavite.co/crWBc4WGjNw4NhOU.gif" alt = "Welcome" /> </p>
+<p align = "center"> <img src = "https://share.creavite.co/crWBc4WGjNw4NhOU.gif" alt = "Welcome"></img></p>
+
 ---
-<h1 align = "center" > Hello there! I'm Itzhak Estrella and welcome to my GitHub profile. </h1>
-<h3 align = "center"> I am currently an undergraduate student at UT Austin, pursuing a Bachelor's degree in Computer Science with a minor in Informatics </h3>
+
+<h1 align = "center" > Hello there! I'm Itzhak Estrella and welcome to my GitHub profile </h1>
+<h3 align = "center"> I am currently an undergraduate student at UT Austin, pursuing a Bachelor's degree in Computer Science with a minor in Informatics</h3>
+
 ---
+
 ##:globe_with_meridians: Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itz-estrella/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
