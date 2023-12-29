@@ -5,7 +5,7 @@
 
 <h1 align = "center" > Hello there! I'm Itzhak Estrella and welcome to my GitHub profile </h1>
 <h3 align = "center"> I am currently an undergraduate student at UT Austin, pursuing a Bachelor's degree in Computer Science with a minor in Informatics</h3>
-<h3 align = "center"> I am currently an undergraduate student at UT Austin, pursuing a Bachelor's degree in Computer Science with a minor in Informatics</h3>
+<h3 align = "center"> I am highly intereseted in data mining, artificial intelligence, machine learning fariness, and much more! Please feel free to look through some of my Jupyter Notebooks to see my talent and hard work. </h3>
 
 ---
 
