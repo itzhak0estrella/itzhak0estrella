@@ -7,13 +7,50 @@
 </p>
 
 ## 👨‍💻 About Me
+
 I am a graduate student pursuing a Master’s in Computer Science at the University of Texas at Austin while working as a Data Scientist. I am passionate about leveraging my skills to solve real-world problems involving data and information, and I’m constantly excited to learn new conplex concepts in areas such as information theory and database systems. I have strong experience in data storytelling through visualizations and dashboards, as well as in designing data pipelines to train and fine-tune predictive models.
 
 As technology advances and we enter the age of Artificial Intelligence, my goal is to move from simple tool-building to designing intelligent systems that can make meaningful and responsible decisions. I am driven to architect such complex systems in a moral and liable manner to help shape a better future.
 
----
+## 👔 Professional Timeline
 
-## :computer: Tech Stack & Tools:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏢 Professional Experience</h3>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎓 Academic Background</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025_--_Present-Junior_Data_Scientist_@_r4_Technologies-0077B5?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025_--_Present-M.S._in Computer_Science_@_UT_Austin-0077B5?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2022_--_2024-Data_Analyst_Intern_@_Techint_Engineering_and_Construction-4CAF50?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2021_--_2025-B.S._in_Computer_Science_@_UT_Austin4CAF50?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2023_--_2025-Undergrad_Research_Student_@_UTAustin-9C27B0?style=for-the-badge" />
+      </td>
+      <td align="center">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💻 Tech Stack & Tools:
 
 <div align="center">
   
@@ -75,7 +112,7 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
   </table>
 </div>
 
-## :globe_with_meridians: Connect with Me:
+## 🤝 Connect with Me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/itz-estrella/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
@@ -85,4 +122,3 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=itzhak0estrella&label=Profile%20views&color=0e75b6&style=flat" alt="itzhak0estrella"/> 
 </p>
-
