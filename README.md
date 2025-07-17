@@ -1,6 +1,10 @@
+<div align="center">
+  <img src = "https://capsule-render.vercel.app/api?type=venom&height=300&color=0:7b14a3,100:dda7f2&text=Itzhak%20Estrella" alt = "Welcome"></img>
+</div>
 
-<p align = "center"> <img src = "https://share.creavite.co/H7Pz4V9vB2tsvhHQ.gif" alt = "Welcome"></img></p>
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=A857C7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Grad+Student+in+CS+%40+UT+Austin" alt="Typing SVG" /></a>
+</p>
 ---
 
 <h1 align = "center" > Hello there! I'm Itzhak Estrella and welcome to my GitHub profile </h1>
