@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a graduate student pursuing a Master’s in Computer Science at the University of Texas at Austin while working as a Data Scientist. I am passionate about leveraging my skills to solve real-world problems involving data and information, and I’m constantly excited to learn new conplex concepts in areas such as information theory and database systems. I have strong experience in data storytelling through visualizations and dashboards, as well as in designing data pipelines to train and fine-tune predictive models.
+I am a graduate student pursuing an online Master’s in Computer Science at the University of Texas at Austin while working as a Data Scientist. I am passionate about leveraging my skills to solve real-world problems involving data and information, and I’m constantly excited to learn new conplex concepts in areas such as information theory and database systems. I have strong experience in data storytelling through visualizations and dashboards, as well as in designing data pipelines to train and fine-tune predictive models.
 
 As technology advances and we enter the age of Artificial Intelligence, my goal is to move from simple tool-building to designing intelligent systems that can make meaningful and responsible decisions. I am driven to architect such complex systems in a moral and liable manner to help shape a better future.
 
