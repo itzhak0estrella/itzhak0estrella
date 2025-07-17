@@ -42,7 +42,7 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2023_--_2025-Undergrad_Research_Student_@_UTAustin-9C27B0?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2023_--_2025-Undergrad_Research_Student_@_UT_Austin-9C27B0?style=for-the-badge" />
       </td>
       <td align="center">
       </td>
