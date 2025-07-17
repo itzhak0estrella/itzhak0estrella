@@ -1,5 +1,5 @@
 <div align="center">
-  <img src = "https://capsule-render.vercel.app/api?type=venom&height=300&color=0:7b14a3,100:dda7f2&text=Itzhak%20Estrella" alt = "Welcome"></img>
+  <img src = "https://capsule-render.vercel.app/api?type=venom&height=300&color=0:7b14a3,100:dda7f2&text=Itzhak%20Estrella&fontColor=ffffff" alt = "Welcome"></img>
 </div>
 
 <p align="center">
