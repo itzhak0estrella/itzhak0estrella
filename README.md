@@ -59,6 +59,7 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
 <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-74aa9c?logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
 <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
 
