@@ -34,7 +34,7 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2024-Data_Analyst_Intern_@_Techint-4CAF50?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2024_--_2024-Data_Analyst_Intern_@_Techint-4CAF50?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2021_--_2025-B.S._in_Computer_Science_@_UT_Austin-4CAF50?style=for-the-badge" />
