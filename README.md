@@ -19,9 +19,9 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
   
 **Artificial Intelligence & Machine Leaning**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
 <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
 
@@ -34,19 +34,17 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
 
 **Data Science & Analysis**
 <br>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
 <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
+<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
+<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
 
 **Backend Software**
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
 
 **Cloud**
@@ -58,7 +56,7 @@ As technology advances and we enter the age of Artificial Intelligence, my goal 
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" />
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
   
 </div>
 
